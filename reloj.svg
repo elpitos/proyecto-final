@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="128"
+   height="128"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="pelot0 (copia).svg">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1024"
+     inkscape:window-height="576"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="1.84375"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs5">
+    <linearGradient
+       id="linearGradient2816">
+      <stop
+         style="stop-color:#0000a2;stop-opacity:1"
+         offset="0"
+         id="stop2818" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop2820" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2794">
+      <stop
+         style="stop-color:#545454;stop-opacity:1"
+         offset="0"
+         id="stop2796" />
+      <stop
+         style="stop-color:#545454;stop-opacity:1"
+         offset="0.9464286"
+         id="stop2804" />
+      <stop
+         style="stop-color:#c5c5c5;stop-opacity:0"
+         offset="1"
+         id="stop2798" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2760">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1"
+         offset="0"
+         id="stop2762" />
+      <stop
+         style="stop-color:#0000a2;stop-opacity:1"
+         offset="0.61160713"
+         id="stop2768" />
+      <stop
+         style="stop-color:#6666ff;stop-opacity:1"
+         offset="1"
+         id="stop2764" />
+    </linearGradient>
+    <linearGradient
+       x1="6.9292336"
+       y1="121.07077"
+       x2="6.9292336"
+       y2="8.9609833"
+       id="linearGradient2766"
+       xlink:href="#linearGradient2760"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       cx="62.984127"
+       cy="65.015877"
+       r="54.179893"
+       fx="62.984127"
+       fy="65.015877"
+       id="radialGradient2812"
+       xlink:href="#linearGradient2794"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="31.5"
+       y1="63"
+       x2="31.5"
+       y2="12"
+       id="linearGradient2822"
+       xlink:href="#linearGradient2816"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     transform="matrix(0.14656084,0,0,0.14968478,59.116706,54.799471)"
+     id="g5">
+    <g
+       id="g7">
+      <circle
+         cx="0"
+         cy="0"
+         r="108"
+         id="circle9"
+         style="fill:none;stroke:#808080;stroke-width:27.00612068" />
+      <circle
+         cx="0"
+         cy="0"
+         r="97"
+         id="circle11"
+         style="fill:none;stroke:#000000;stroke-width:74.26683044;stroke-dasharray:27.00611994, 315.89801172" />
+      <circle
+         cx="0"
+         cy="0"
+         r="100"
+         id="circle13"
+         style="fill:none;stroke:#000000;stroke-width:33.75764847;stroke-dasharray:13.50305998, 57.19896206" />
+    </g>
+    <g
+       id="hands"
+       transform="scale(-1,-1)">
+      <g
+         id="hour">
+        <line
+           enable-background="new    "
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="75"
+           id="line17"
+           style="opacity:0.5;fill:none;stroke:#0000ff;stroke-width:33.75764847;stroke-linecap:round" />
+        <animateTransform
+           type="rotate"
+           fill="remove"
+           restart="always"
+           calcMode="linear"
+           additive="replace"
+           accumulate="none"
+           by="360"
+           dur="12h"
+           repeatCount="indefinite"
+           attributeName="transform" />
+        <circle
+           cx="0"
+           cy="0"
+           r="7"
+           id="circle19" />
+      </g>
+      <g
+         id="minute">
+        <line
+           enable-background="new    "
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="93"
+           id="line22"
+           style="opacity:0.9;fill:none;stroke:#008000;stroke-width:27.00612068;stroke-linecap:round" />
+        <animateTransform
+           type="rotate"
+           fill="remove"
+           restart="always"
+           calcMode="linear"
+           additive="replace"
+           accumulate="none"
+           by="360"
+           dur="60min"
+           repeatCount="indefinite"
+           attributeName="transform" />
+        <circle
+           cx="0"
+           cy="0"
+           r="6"
+           id="circle24"
+           style="fill:#ff0000" />
+      </g>
+      <g
+         id="second">
+        <line
+           x1="0"
+           y1="-20"
+           x2="0"
+           y2="102"
+           id="line27"
+           style="fill:none;stroke:#ff0000;stroke-width:13.50306034;stroke-linecap:round" />
+        <animateTransform
+           type="rotate"
+           fill="remove"
+           restart="always"
+           calcMode="linear"
+           additive="replace"
+           accumulate="none"
+           by="360"
+           dur="60s"
+           repeatCount="indefinite"
+           attributeName="transform" />
+        <circle
+           cx="0"
+           cy="0"
+           r="4"
+           id="circle29"
+           style="fill:#0000ff" />
+      </g>
+    </g>
+  </g>
+</svg>
